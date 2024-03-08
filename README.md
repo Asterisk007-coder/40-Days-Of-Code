@@ -1,5 +1,15 @@
 # 40-Days-Of-Code
+
 40 days of code, starting from 6th March , 2024 to 14th April, 2024
+
+## Day 3: March 8, Friday
+
+**Today's Progress**: Finished unregularised Linear regression, will do regularised version tomorrow
+
+**Thoughts** Wasted quite a lot of time today, and started coding late, so finished past midnight. Will start tomorrow morning itself.
+
+**Link(s) to work**
+![Day 03](./img/Day03.png "Day 03")
 
 ## Day 2: March 7, Thursday
 
@@ -17,6 +27,5 @@
 **Thoughts** Struggling to get proper DP intuition for now, only got some simple questions correct.
 
 **Link(s) to work**
+
 1. ![Day 01](./img/Day01.png "Day 01")
-
-
