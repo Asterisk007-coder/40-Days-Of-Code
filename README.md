@@ -2,6 +2,15 @@
 
 40 days of code, starting from 6th March , 2024 to 14th April, 2024
 
+## Day 4: March 9, Saturday
+
+**Today's Progress**: Started Logistic regression, but not getting good results, will improve tomorrow
+
+**Thoughts** Had a productive day overall, but my implementation of logistic regression doesn't work well :( [The plot shown is also visibly messy]
+
+**Link(s) to work**
+![Day 04](./img/Day04.png "Day 04")
+
 ## Day 3: March 8, Friday
 
 **Today's Progress**: Finished unregularised Linear regression, will do regularised version tomorrow
