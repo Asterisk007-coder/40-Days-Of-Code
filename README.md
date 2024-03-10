@@ -2,6 +2,16 @@
 
 40 days of code, starting from 6th March , 2024 to 14th April, 2024
 
+## Day 5: March 10, Sunday
+
+**Today's Progress**: Continued Logistic regression, changed dataset, my gradient descent algo still has some problem
+
+**Thoughts** Lost motivation in evening and wasted time, started coding at midnight. Overall not very good day. <br>
+PS : The plot on the left is using my implementation, right one is what i'm trying to reach
+
+**Link(s) to work**
+![Day 05](./img/Day05.png "Day 05")
+
 ## Day 4: March 9, Saturday
 
 **Today's Progress**: Started Logistic regression, but not getting good results, will improve tomorrow
