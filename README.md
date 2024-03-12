@@ -2,6 +2,16 @@
 
 40 days of code, starting from 6th March , 2024 to 14th April, 2024
 
+## Day 6: March 12, Sunday
+
+**Today's Progress**: Continued Logistic regression, With some tinkering around, and introducing some randomness, now im managing to get a good curve ~ 50% of the time.
+
+**Thoughts** Had a long day so not much time for myself, fell asleep after coding for an hour. <br>
+PS : The plot on the left is using my implementation, right one is what i'm trying to reach
+
+**Link(s) to work**
+![Day 06](./img/Day06.png "Day 06")
+
 ## Day 5: March 10, Sunday
 
 **Today's Progress**: Continued Logistic regression, changed dataset, my gradient descent algo still has some problem
