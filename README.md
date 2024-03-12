@@ -2,7 +2,17 @@
 
 40 days of code, starting from 6th March , 2024 to 14th April, 2024
 
-## Day 6: March 12, Sunday
+## Day 7: March 13, Tuesday
+
+**Today's Progress**: Continued Logistic regression, Managed to fix the last bugs with some outside help, now my predictions are coming properly. <br>
+My training accuracy and predictions are similar to sklearn's , but my weights are somewhat different. Will explore more on this tomorrow
+
+**Thoughts** Wasted a bit of time but got on track in evening. Successful day overall :)
+
+**Link(s) to work**
+![Day 07](./img/Day07.png "Day 07")
+
+## Day 6: March 11, Monday
 
 **Today's Progress**: Continued Logistic regression, With some tinkering around, and introducing some randomness, now im managing to get a good curve ~ 50% of the time.
 
