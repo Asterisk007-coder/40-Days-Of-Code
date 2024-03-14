@@ -2,7 +2,18 @@
 
 40 days of code, starting from 6th March , 2024 to 14th April, 2024
 
-## Day 7: March 13, Tuesday
+## Day 8: March 13, Wednesday
+
+**Today's Progress**: Finished Logistic regression (picture is of final results) <br> Also started decision trees. Will try and complete by Day 10-11.
+
+**Thoughts** Had a busy evening but wasted time in afternoons. Coded late into the night. Gearing up for a busy Thursday as well.
+
+PS the right half of the picture is new, the left half is more or less same as Day 7
+
+**Link(s) to work**
+![Day 08](./img/Day08.png "Day 08")
+
+## Day 7: March 12, Tuesday
 
 **Today's Progress**: Continued Logistic regression, Managed to fix the last bugs with some outside help, now my predictions are coming properly. <br>
 My training accuracy and predictions are similar to sklearn's , but my weights are somewhat different. Will explore more on this tomorrow
