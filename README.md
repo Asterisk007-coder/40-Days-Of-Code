@@ -2,6 +2,18 @@
 
 40 days of code, starting from 6th March , 2024 to 14th April, 2024
 
+try next : complete ID3, add plotting option with backtracking, on continuous data
+
+## Day 10: March 15, Friday
+
+**Today's Progress**: Continued Decision Tree. Finished implementing training part. Right now tree coming too big so pruning and testing accuracy etc steps are needed.
+
+**Thoughts** Procastinated a bit in night so started the ML at midnight. Otherwise good day.
+PS : Tree coming too big on actual dataset, so here i have shown the tree for small dataset (20 points).
+**Link(s) to work**
+
+1. ![Day 10](./img/Day10.png "Day 10")
+
 ## Day 9: March 14, Thursday
 
 **Today's Progress**: Continued Decision Tree. Same deadline of completion : Day 10 or 11.
