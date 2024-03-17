@@ -4,6 +4,16 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 11: March 16, Saturday
+
+**Today's Progress**: Discretized the tree! Over two hours spent in writing the 'discretize' function , which converts the values from decimals to integers. Will wrap up decision trees tomorrow with some methods to increase accuracy, and some other algorithms which i find ( i only implemented the main one ID3).
+**Thoughts** Wasted quite a bit of time today since no classes in afternoon. Coded late into the night, will probably have to catch sleep through naps.
+
+**Link(s) to work**
+
+1. This is the function! ![Day 11](./img/Day11a.png "Day 11")
+1. Discretising may seem simple, but basically my tree went from looking like the one at top, to the one at bottom. The accuracy dropped from 100% to 66%. I will work tomorrow on other methods to increase accuracy. ![Day 11](./img/Day11b.png "Day 11r")
+
 ## Day 10: March 15, Friday
 
 **Today's Progress**: Continued Decision Tree. Finished implementing training part. Right now tree coming too big so pruning and testing accuracy etc steps are needed.
