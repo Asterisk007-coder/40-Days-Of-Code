@@ -4,7 +4,7 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
-## Day 11: March 17, Sunday
+## Day 12: March 17, Sunday
 
 **Today's Progress**: Tested stuff on decision tree more. Unexpectedly, the tree which i thought was overfitting (the above one) is givin nearly 100% accurate results in testing, while the simplified model is failing. I plan to ask a friend about this tomorrow.
 **Thoughts** Postponed some important stuff to the evening result of which couldnt do some of it. ML was main priority though. Will try not to repeat this tomorrow.
