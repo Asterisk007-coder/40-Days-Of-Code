@@ -4,9 +4,17 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 11: March 17, Sunday
+
+**Today's Progress**: Tested stuff on decision tree more. Unexpectedly, the tree which i thought was overfitting (the above one) is givin nearly 100% accurate results in testing, while the simplified model is failing. I plan to ask a friend about this tomorrow.
+**Thoughts** Postponed some important stuff to the evening result of which couldnt do some of it. ML was main priority though. Will try not to repeat this tomorrow.
+
+**Link(s) to work** 1.![Day 12](./img/Day12.png "Day 12")
+
 ## Day 11: March 16, Saturday
 
 **Today's Progress**: Discretized the tree! Over two hours spent in writing the 'discretize' function , which converts the values from decimals to integers. Will wrap up decision trees tomorrow with some methods to increase accuracy, and some other algorithms which i find ( i only implemented the main one ID3).
+
 **Thoughts** Wasted quite a bit of time today since no classes in afternoon. Coded late into the night, will probably have to catch sleep through naps.
 
 **Link(s) to work**
