@@ -4,6 +4,14 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 13: March 18, Monday
+
+**Today's Progress**: Started implementing new algo for decision tree, only halfway done .
+
+**Thoughts** Was very tired from classes so progress was very slow.
+
+**Link(s) to work** 1.![Day 13](./img/Day13.png "Day 13")
+
 ## Day 12: March 17, Sunday
 
 **Today's Progress**: Tested stuff on decision tree more. Unexpectedly, the tree which i thought was overfitting (the above one) is givin nearly 100% accurate results in testing, while the simplified model is failing. I plan to ask a friend about this tomorrow.
