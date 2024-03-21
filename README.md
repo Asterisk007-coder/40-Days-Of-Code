@@ -4,6 +4,20 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 15: March 20, Wednesday
+
+**Today's Progress**: Was not in right mindframe for ML so did graph algorithms practice instead.
+
+**Thoughts** Today was also bit hectic, im gonna continue ML from 21st.
+
+**Link(s) to work** 1.![Day 15](./img/Day15.png "Day 15")
+
+## Day 14: March 19, Tuesday
+
+**Today's Progress**: MISSED
+
+**Thoughts** Quiz on 20th, plus poor time management on my part.
+
 ## Day 13: March 18, Monday
 
 **Today's Progress**: Started implementing new algo for decision tree, only halfway done .
