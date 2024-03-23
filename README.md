@@ -4,6 +4,22 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 17: March 22, Friday
+
+**Today's Progress**: Set up Pytorch and setup dataset loading
+
+**Thoughts** Progress is slower than i thought, but alright.
+
+**Link(s) to work** 1.![Day 17](./img/Day17.png "Day 17")
+
+## Day 16: March 21, Thursday
+
+**Today's Progress**: Studied maths for ANN, gonna start implementing tomorrow
+
+**Thoughts** Due to some outside circumstance , I have to start ANN so i'll pause Classical ML for now and jump to ANN. I'm a bit nervous yet excited!
+
+**Link(s) to work** Only maths, so no code for today
+
 ## Day 15: March 20, Wednesday
 
 **Today's Progress**: Was not in right mindframe for ML so did graph algorithms practice instead.
