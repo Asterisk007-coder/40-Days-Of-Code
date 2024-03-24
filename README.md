@@ -4,6 +4,14 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 18: March 23, Saturday
+
+**Today's Progress**: Started writing layers and forward pass for ANN
+
+**Thoughts** Progress has sped up, but only a bit. I'm still optimistic.
+
+**Link(s) to work** 1.![Day 18](./img/Day18.png "Day 18")
+
 ## Day 17: March 22, Friday
 
 **Today's Progress**: Set up Pytorch and setup dataset loading
