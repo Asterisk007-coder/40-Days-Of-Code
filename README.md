@@ -4,6 +4,14 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 19: March 24, Sunday
+
+**Today's Progress**: Studied and implemented activation functions
+
+**Thoughts** I will be starting proper backpropagation around Day 21 or 22. Looking forward to that :)
+
+**Link(s) to work** 1.![Day 19](./img/Day19.png "Day 19")
+
 ## Day 18: March 23, Saturday
 
 **Today's Progress**: Started writing layers and forward pass for ANN
