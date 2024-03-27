@@ -4,6 +4,20 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 21: March 26, Tuesday
+
+**Today's Progress**: Finished implementing utility functions (losses, activations etc), also implemented backpropagation. The backpropagation step is the 'backward' function in the code:
+
+**Thoughts** Yesterday was slow, but today i made lot of progress.
+
+**Link(s) to work** 1.![Day 21](./img/Day21.png "Day 21")
+
+## Day 20: March 25, Monday
+
+**Today's Progress**: Studied Maths for Loss functions and Backpropagation. Only maths, no coding , so no screenshots for today!
+
+**Thoughts** I wasted quite a bit of time, hoped to reach the coding part but didnt reach. Will finish backpropagation tomorrow.
+
 ## Day 19: March 24, Sunday
 
 **Today's Progress**: Studied and implemented activation functions
