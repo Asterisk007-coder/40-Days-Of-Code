@@ -4,6 +4,14 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 22: March 27, Wednesday
+
+**Today's Progress**: Started writing classification code but opted for more tensors practice first
+
+**Thoughts** This current work is comparatively easy but tedious. I hope i can finish the tensor operations tomorrow
+
+**Link(s) to work** 1.![Day 22](./img/Day22.png "Day 22")
+
 ## Day 21: March 26, Tuesday
 
 **Today's Progress**: Finished implementing utility functions (losses, activations etc), also implemented backpropagation. The backpropagation step is the 'backward' function in the code:
