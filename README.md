@@ -4,6 +4,13 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 23: March 28, Thursday
+
+**Today's Progress**: Finished Pytorch code for linear dataset , will start on a non linear dataset next
+
+**Thoughts** Linear regression is not as interesting as non linear data so i am glad i can start non linear data now!
+**Link(s) to work** 1.![Day 23](./img/Day23.png "Day 23")
+
 ## Day 22: March 27, Wednesday
 
 **Today's Progress**: Started writing classification code but opted for more tensors practice first
