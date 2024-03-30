@@ -4,7 +4,7 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
-## Day 25 : March 29, Saturday
+## Day 25 : March 30, Saturday
 
 **Today's Progress**: Finished my first ANN in Pytorch! So the task was to classify the red and blue points and i managed to get 100% accuracy. In the picture top row is the original data and the winning model, and bottom row are the first three attempts which gave 45, 52 and 86% accuracy.
 
