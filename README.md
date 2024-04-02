@@ -4,6 +4,15 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 28 : April 2, Tuesday
+
+**Today's Progress**: Wrote training code, but ran into a bug where the model isnt learning at all, il continue fixing this tomorrow
+
+**Thoughts** I expected multiclass classification to be quite similar to binary, but turns out softmax activations etc are a bit more different that i thought ! so had to read up those again.
+I will try and finish this problem tomorrow
+
+**Link(s) to work** 1.![Day 28](./img/Day28.png "Day 28")
+
 ## Day 27 : April 1, Monday
 
 **Today's Progress**: Started Multiclass classification, Goal is to classify those 4 blobs on the left
