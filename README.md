@@ -4,6 +4,23 @@
 
 try next : complete ID3, add plotting option with backtracking, on continuous data
 
+## Day 31 : April 5, Friday
+
+**Today's Progress**: Finally my ANN multiclass is done! I spent an hour debugging it ,turns out i had just written two lines in opposite order!
+So my task was to classify these data points and the left one is without non-linearity, and right one is with non-linearity (curved boundaries)
+
+**Thoughts** This wraps up ANN part, i wanted to finish CNN too but theres not enough time left, so from tomorrow im pausing ML and im gonna do graph and dp algo questions instead.
+
+**Link(s) to work** 1.![Day 31](./img/Day31.png "Day 31")
+
+## Day 30 : April 4, Thursday
+
+**Today's Progress**: MISSED, partially because i had a quiz on Friday. This is 2nd miss so far , first was on Day 14.
+
+## Day 29 : April 3, Wednesday
+
+**Today's Progress**: Worked on a private project for 1.5 hours.
+
 ## Day 28 : April 2, Tuesday
 
 **Today's Progress**: Wrote training code, but ran into a bug where the model isnt learning at all, il continue fixing this tomorrow
